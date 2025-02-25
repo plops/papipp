@@ -1,6 +1,5 @@
 #pragma once
 #include <iostream>
-#include <ostream>
 
 extern "C" {
 #include <papi.h>
